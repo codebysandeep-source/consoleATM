@@ -1,0 +1,9 @@
+D:\C#\Console\ATM_console\ATM\bin\Release\netcoreapp3.1\ATM.deps.json
+D:\C#\Console\ATM_console\ATM\bin\Release\netcoreapp3.1\ATM.dll
+D:\C#\Console\ATM_console\ATM\bin\Release\netcoreapp3.1\ATM.pdb
+D:\C#\Console\ATM_console\ATM\obj\Release\netcoreapp3.1\ATM.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Console\ATM_console\ATM\obj\Release\netcoreapp3.1\ATM.AssemblyInfoInputs.cache
+D:\C#\Console\ATM_console\ATM\obj\Release\netcoreapp3.1\ATM.AssemblyInfo.cs
+D:\C#\Console\ATM_console\ATM\obj\Release\netcoreapp3.1\ATM.csproj.CoreCompileInputs.cache
+D:\C#\Console\ATM_console\ATM\obj\Release\netcoreapp3.1\ATM.dll
+D:\C#\Console\ATM_console\ATM\obj\Release\netcoreapp3.1\ATM.pdb

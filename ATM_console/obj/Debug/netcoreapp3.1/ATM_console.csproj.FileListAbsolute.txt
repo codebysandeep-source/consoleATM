@@ -1,0 +1,17 @@
+D:\C#\Console\ATM_console\ATM_console\bin\Debug\netcoreapp3.1\ATM_console.exe
+D:\C#\Console\ATM_console\ATM_console\bin\Debug\netcoreapp3.1\ATM_console.deps.json
+D:\C#\Console\ATM_console\ATM_console\bin\Debug\netcoreapp3.1\ATM_console.runtimeconfig.json
+D:\C#\Console\ATM_console\ATM_console\bin\Debug\netcoreapp3.1\ATM_console.runtimeconfig.dev.json
+D:\C#\Console\ATM_console\ATM_console\bin\Debug\netcoreapp3.1\ATM_console.dll
+D:\C#\Console\ATM_console\ATM_console\bin\Debug\netcoreapp3.1\ATM_console.pdb
+D:\C#\Console\ATM_console\ATM_console\bin\Debug\netcoreapp3.1\ATM.dll
+D:\C#\Console\ATM_console\ATM_console\bin\Debug\netcoreapp3.1\ATM.pdb
+D:\C#\Console\ATM_console\ATM_console\obj\Debug\netcoreapp3.1\ATM_console.csproj.AssemblyReference.cache
+D:\C#\Console\ATM_console\ATM_console\obj\Debug\netcoreapp3.1\ATM_console.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Console\ATM_console\ATM_console\obj\Debug\netcoreapp3.1\ATM_console.AssemblyInfoInputs.cache
+D:\C#\Console\ATM_console\ATM_console\obj\Debug\netcoreapp3.1\ATM_console.AssemblyInfo.cs
+D:\C#\Console\ATM_console\ATM_console\obj\Debug\netcoreapp3.1\ATM_console.csproj.CoreCompileInputs.cache
+D:\C#\Console\ATM_console\ATM_console\obj\Debug\netcoreapp3.1\ATM_console.csproj.CopyComplete
+D:\C#\Console\ATM_console\ATM_console\obj\Debug\netcoreapp3.1\ATM_console.dll
+D:\C#\Console\ATM_console\ATM_console\obj\Debug\netcoreapp3.1\ATM_console.pdb
+D:\C#\Console\ATM_console\ATM_console\obj\Debug\netcoreapp3.1\ATM_console.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+C:\Users\sande\Desktop\consoleATM\ATM_console.exe
+C:\Users\sande\Desktop\consoleATM\ATM_console.dll
+C:\Users\sande\Desktop\consoleATM\ATM_console.deps.json
+C:\Users\sande\Desktop\consoleATM\ATM_console.runtimeconfig.json
+C:\Users\sande\Desktop\consoleATM\ATM_console.pdb
+C:\Users\sande\Desktop\consoleATM\ATM.dll
+C:\Users\sande\Desktop\consoleATM\ATM.pdb
